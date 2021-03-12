@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ntoled3Proj3App3</string>
+    <string name="perm">detonate</string>
+    <string name="option1">Exit A3</string>
+    <string name="option2">Launch A1 and A2</string>
+    <string-array name="VacationTitles">
+        <item>Tokyo</item>
+        <item>New Zealand</item>
+        <item>Machu Pichu</item>
+        <item>Bali</item>
+        <item>Rio De Janiero</item>
+    </string-array>
+</resources>
